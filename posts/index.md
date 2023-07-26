@@ -1,6 +1,6 @@
 # Posts
 
-Here you can find a list of my "posts". For me a "post" is some form of prose
+Here you can find a list of my "posts". For me a "post" is some form of [prose](/prose.md)
 which is written at a specfic point in time and likely remains unchanged after
 being published. Some changes might occur to correct issues like grammer,
 spelling, links, etc., etc. however a post will largely remain unchanged after
